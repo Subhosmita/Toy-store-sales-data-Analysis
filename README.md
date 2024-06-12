@@ -1,4 +1,4 @@
-Toy Store Sales Data Analysis Project
+
 Welcome to the Toy Store Sales Data Analysis project, a comprehensive data analytics initiative provided by Maven Analytics. This project focuses on analyzing sales data from a toy store, offering insights into the store's performance across various dimensions.
 
 Project Overview
